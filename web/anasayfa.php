@@ -130,7 +130,7 @@ if (!isset($_SESSION['username'])) {
                 <p>Hayvanat bahçeleri aslında insanların kendi keyifleri için hayvanları doğal yaşamlarından çıkartarak hapsettikleri kafesli yerlerdir.</p>
                 <p>Hayvanlar çoğu zaman uygun koşullarda bakılmadıgı için psikolojik olarak bunalıma girmektedirler.</p>
                 <p>Hayvanlar hayvanat bahçelerinde öldürülmektedir… PETA'nın (Hayvanlara Etik Muamele İçin Mücadele Edenler Örgütü) verilerine göre sadece Avrupa'da ki hayvanat bahçelerinde her yıl 5.000 ile 7.500 hayvan, fazlalık ya da mali imkansızlıklar nedeniyle öldürülmektedir..</p>
-                <p ><b>Github:</b> kodları görmek için <a href="https://github.com/MelikeBadem/hayvanat_bahcesi_website/tree/main/web">tıklayınız.</a></p>
+                <p ><b>Github:</b> kodları görmek için <a href="https://github.com/MelikeBadem/HayvanatBahcesi/tree/main/web">tıklayınız.</a></p>
             </div>
         </div>
         <div class="col-md-6">
