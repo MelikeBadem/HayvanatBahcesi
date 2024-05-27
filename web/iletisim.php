@@ -129,7 +129,7 @@ if (!isset($_SESSION['username'])) {
                 <h1>İletişim</h1>
                <p>Bursa Teknik Üniversitesi Bilgisayar Mühendisliği</p>
                <p>Melike Badem 22360859086</p> 
-                <p ><b>Github:</b> kodları görmek için <a href="https://github.com/MelikeBadem/hayvanat_bahcesi_website/tree/main/web">tıklayınız.</a></p>
+                <p ><b>Github:</b> kodları görmek için <a href="https://github.com/MelikeBadem/HayvanatBahcesi/tree/main/web">tıklayınız.</a></p>
         
             </div>
         </div>
