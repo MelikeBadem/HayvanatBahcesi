@@ -33,6 +33,9 @@ Bu proje, PHP, MySQL, HTML ve Bootstrap kullanarak geliştirdiğim bir hayvanat 
 ![image](https://github.com/MelikeBadem/HayvanatBahcesi/assets/111521349/62058caa-5a96-4813-9b8a-a140730cae98)
 <b>12.</b>Son olarak yine menü çubuğundan "Hesap İşlemleri ve Kullanıcılar"ı seçtiğinizden aşağıdaki sayfa karşınıza çıkmaktadır.Buradan hesaba daha önce kayıt yapan kullanıcı listesini görebilir ve giriş yaptığınız hesabınızın şifresini değiştirebilirsiniz.Şifre değiştirdikten sonra sizden tekrar giriş yapmanız istenecektir.<br>
 ![image](https://github.com/MelikeBadem/HayvanatBahcesi/assets/111521349/a5ff26b6-4be7-4c6b-8b3c-2453200d6e73)
+## Website'nin Açıklama Videosu
+Video'yu izlemek için <a href="">tıklayınız.</a>
+
 
 
 
